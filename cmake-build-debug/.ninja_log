@@ -1,0 +1,8 @@
+# ninja log v5
+7	345	7262347427689668	CMakeFiles/deneyselHesapMakinesi.dir/main.cpp.obj	78de4a6d8d535297
+9	310	7262332480668155	CMakeFiles/deneyselHesapMakinesi.dir/Source_Files/BasitHesapMakinesi.cpp.obj	86da0e7e56a843ae
+5	307	7262313384417133	CMakeFiles/deneyselHesapMakinesi.dir/Source_Files/SigmaHesapMakinesi.cpp.obj	b317f49222febb9f
+345	431	7262347428524888	deneyselHesapMakinesi.exe	eb69015fa85fcc4a
+16	339	7262332480958154	CMakeFiles/deneyselHesapMakinesi.dir/Source_Files/pisagor.cpp.obj	9cd05b4b438c97ec
+11	301	7262325537432421	CMakeFiles/deneyselHesapMakinesi.dir/Source_Files/kokalma.cpp.obj	1749b36e61e3b503
+2	298	7262347427237266	CMakeFiles/deneyselHesapMakinesi.dir/Source_Files/ungenalan.cpp.obj	e412b0b93922cbac
